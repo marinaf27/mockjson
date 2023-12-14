@@ -5,7 +5,7 @@
       "email": "marina.ferdman@gmail.com",
       "phone": "2679029074",
       "name": "Marina Gerzon",
-      "cc_balance": "250.50",
+      "balance": "250.50",
       "due_date": "12/30/2023",
       "pin": "1234"
     },
@@ -14,7 +14,7 @@
       "email": "dgerzon@gmail.com",
       "phone": "2016942180",
       "name": "Dmitriy Gerzon",
-      "cc_balance": "345.50",
+      "balance": "345.50",
       "due_date": "12/25/2023",
       "pin": "4321"
     },
@@ -23,7 +23,7 @@
       "email": "dgerzon15@gmail.com",
       "phone": "1234567890",
       "name": "David Gerzon",
-      "cc_balance": "10.0",
+      "balance": "10.0",
       "due_date": "01/01/2024",
       "pin": "1111",
       "currency": "$"
