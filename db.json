@@ -6,7 +6,7 @@
       "phone": "2679029074",
       "name": "Marina Gerzon",
       "balance": "250.50",
-      "due_date": "12/30/2023",
+      "due_date": "2023-12-30",
       "pin": "1234"
     },
     {
@@ -15,7 +15,7 @@
       "phone": "2016942180",
       "name": "Dmitriy Gerzon",
       "balance": "345.50",
-      "due_date": "12/25/2023",
+      "due_date": "2023-12-30",
       "pin": "4321"
     },
     {
@@ -24,7 +24,7 @@
       "phone": "1234567890",
       "name": "David Gerzon",
       "balance": "10.0",
-      "due_date": "01/01/2024",
+      "due_date": "2024-01-01",
       "pin": "1111",
       "currency": "$"
     }
