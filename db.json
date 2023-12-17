@@ -34,21 +34,21 @@
       "status": "Graded",
       "phone": "2679029074",
       "product_name": "Advanced Math 2",
-      "arrival_date": "2023-12-30"
+      "grade_date": "2023-12-30"
     },
     {
       "order": 2222,
       "status": "Under Review",
       "phone": "1234567890",
       "product_name": "Organic Chemistry",
-      "arrival_date": "2024-01-01"
+      "grade_date": "2024-01-01"
     },
     {
       "order": 3333,
       "status": "Submitted",
       "phone": "1234567890",
       "product_name": "Calculus2 ",
-      "arrival_date": "2024-10-01"
+      "grade_date": "2024-10-01"
     }
   ]
 }
