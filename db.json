@@ -1,12 +1,12 @@
 {
-  "customers": [
+  "students": [
     {
       "id": 1,
       "email": "marina.ferdman@gmail.com",
       "phone": "2679029074",
       "name": "Marina Gerzon",
       "balance": "250.50",
-      "due_date": "2023-12-30",
+      "next_refil_date": "2023-12-30",
       "pin": "1234"
     },
     {
@@ -15,7 +15,7 @@
       "phone": "2016942180",
       "name": "Dmitriy Gerzon",
       "balance": "345.50",
-      "due_date": "2023-12-30",
+      "next_refil_date": "2023-12-30",
       "pin": "4321"
     },
     {
@@ -24,24 +24,31 @@
       "phone": "1234567890",
       "name": "David Gerzon",
       "balance": "10.0",
-      "due_date": "2024-01-01",
+      "next_refil_date": "2024-01-01",
       "pin": "1111"
     }
   ],
-  "orders": [
+  "papers": [
     {
       "order": 1111,
-      "status": "Shipped",
+      "status": "Graded",
       "phone": "2679029074",
-      "product_name": "iPhone 16",
+      "product_name": "Advanced Math 2",
       "arrival_date": "2023-12-30"
     },
     {
       "order": 2222,
-      "status": "Shipped",
+      "status": "Under Review",
       "phone": "1234567890",
-      "product_name": "IPAD",
+      "product_name": "Organic Chemistry",
       "arrival_date": "2024-01-01"
+    },
+    {
+      "order": 3333,
+      "status": "Submitted",
+      "phone": "1234567890",
+      "product_name": "Calculus2 ",
+      "arrival_date": "2024-10-01"
     }
   ]
 }
